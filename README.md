@@ -282,9 +282,9 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 
 Para reportar bugs o solicitar features, por favor abre un [Issue](https://github.com/usuario/panel-profesor/issues).
 
-## Autores
+## Autor
 
-Desarrollado con ❤️ para educadores que buscan herramientas modernas de gestión académica.
+Desarrollado con ❤️ hecho por: Alejo Nigrelli.
 
 ---
 
